@@ -1,11 +1,17 @@
 # Rust
 target/
+out/
 Cargo.lock
 
 # Node
 node_modules/
 dist/
 sdk/dist/
+out/
+
+# Test snapshots
+**/__snapshots__/
+*.snap
 
 # Env / secrets
 .env
