@@ -1,4 +1,5 @@
-import { Keypair, Networks, SorobanRpc } from "@stellar/stellar-sdk";
+import type { Keypair } from "@stellar/stellar-sdk";
+import { Networks } from "@stellar/stellar-sdk";
 
 export interface ReputationScore {
   score: number;

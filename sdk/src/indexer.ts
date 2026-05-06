@@ -1,4 +1,4 @@
-import { Horizon } from "@stellar/stellar-sdk";
+// TODO: import { Horizon } from "@stellar/stellar-sdk" when implementing
 
 export interface WalletActivity {
   txCount: number;
