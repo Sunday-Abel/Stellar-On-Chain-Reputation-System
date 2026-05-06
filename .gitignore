@@ -1,0 +1,17 @@
+# Rust
+target/
+Cargo.lock
+
+# Node
+node_modules/
+dist/
+sdk/dist/
+
+# Env / secrets
+.env
+.env.*
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
