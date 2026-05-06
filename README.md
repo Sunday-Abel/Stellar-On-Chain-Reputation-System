@@ -6,7 +6,7 @@ A protocol that lets Stellar wallets build a **verifiable, on-chain reputation s
 
 **Goal:** A Soroban smart contract that stores a weighted reputation score (0–1000) for any wallet, fed by an off-chain indexer that reads Horizon data. Any protocol can query the score on-chain in a single contract call.
 
-> This project is **open for contributions** via the [Stellar Wave Program](https://www.drips.network/wave/stellar) on Drips. The codebase is intentionally left as a skeleton — contributors implement the logic, earn Points, and get rewarded.
+> This project is **open for contributions**. The codebase is intentionally left as a skeleton — contributors implement the logic.
 
 ---
 
@@ -57,16 +57,9 @@ stellar-reputation/
 
 ---
 
-## Contributing via Drips Wave
+## Contributing
 
-This project is part of the **[Stellar Wave Program](https://www.drips.network/wave/stellar)** — a monthly 7-day sprint where contributors fix issues and earn on-chain rewards.
-
-### How to participate
-
-1. Browse open issues in this repo labelled `Stellar Wave`.
-2. Log in at [drips.network/wave](https://www.drips.network/wave) with your GitHub account.
-3. Apply to an issue, get assigned by the maintainer, submit a PR.
-4. Earn Points → converted to on-chain rewards after the Wave ends.
+This project is open for contributions. Browse open issues and submit a PR.
 
 ### Contribution areas
 

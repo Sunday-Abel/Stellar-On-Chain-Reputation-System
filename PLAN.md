@@ -1,7 +1,7 @@
 # Build Plan — Stellar On-Chain Reputation System
 
 This document outlines how the project will be built, phase by phase.
-Each phase maps directly to a set of GitHub issues that contributors can pick up via the Stellar Wave Program on Drips.
+Each phase maps directly to a set of GitHub issues for contributors.
 
 ---
 
@@ -113,7 +113,7 @@ These are stretch goals, each suitable as a standalone bounty issue.
 When creating a GitHub issue for a phase item, use this structure:
 
 - **Title:** concise, e.g. `[Phase 1.2] Implement compute_score formula`
-- **Label:** `Stellar Wave` + complexity (`trivial` / `medium` / `high`)
+- **Label:** complexity (`trivial` / `medium` / `high`)
 - **Body:** link back to the relevant section in this document, list acceptance criteria
 
 ### Complexity mapping

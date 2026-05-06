@@ -13,6 +13,9 @@ out/
 **/__snapshots__/
 *.snap
 
+# Local issue drafts
+issues.md
+
 # Env / secrets
 .env
 .env.*
